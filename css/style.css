@@ -1,0 +1,22 @@
+h1 {
+  font-size: 5rem;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+p {
+  font-size: 2.1875rem;
+  font-family: "Times New Roman", Times, serif;
+  line-height: 1.1;
+}
+
+#section button {
+  width: 250px;
+  height: 80px;
+  background-color: blue;
+  color: white;
+  margin-bottom: 1.875rem;
+}
+
+#section button:hover {
+  background-color: green;
+}
